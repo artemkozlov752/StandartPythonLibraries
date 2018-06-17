@@ -1,0 +1,7 @@
+https://www.coursera.org/learn/mathematics-and-python/programming/ETQfh/optimizatsiia-v-python-ghlobal-naia-optimizatsiia-i-optimizatsiia-nieghladkoi
+Task1:
+scipy.optimize.minimize
+Task2:
+scipy.optimize.differential_evolution
+Task3:
+scipy.optimize.minimize and scipy.optimize.differential_evolution on the non-smooth function

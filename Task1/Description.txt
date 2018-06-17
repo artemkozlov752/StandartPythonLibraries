@@ -1,0 +1,5 @@
+https://www.coursera.org/learn/mathematics-and-python/programming/QySgp/linieinaia-alghiebra-skhodstvo-tiekstov-i-approksimatsiia-funktsii
+Task1:
+Find two the most closest sentences to the first.
+Task2:
+Find weights w to the function f.
